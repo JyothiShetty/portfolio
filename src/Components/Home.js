@@ -14,10 +14,10 @@ function Home() {
                 </Col>
                 <Col className="d-flex justify-content-center align-items-start flex-column">
                     <h1 style={{fontSize:"72px",color:"#919191"}}>Jyothi Shetty</h1>
-                    <h3 style={{color:"#717171"}}>Web Developer</h3>
+                    <h3 style={{color:"#717171"}}>Frontend Developer</h3>
 
                     <div>
-                        <a className="m-2" href="https://google.com" target="_blank"><FaInstagram color="#efefef" fontSize="32px"/></a>
+                        <a className="m-2" href="https://www.instagram.com/jyothishetty__/" target="_blank"><FaInstagram color="#efefef" fontSize="32px"/></a>
                         <a className="m-2" href="https://www.linkedin.com/in/jyothi-b-r-3158621b1" target="_blank"><FaLinkedin color="#efefef" fontSize="32px"/></a>
                         <a className="m-2" href="https://github.com/JyothiShetty" target="_blank"><FaGithub color="#efefef" fontSize="32px"/></a>
                         

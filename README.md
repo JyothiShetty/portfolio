@@ -1,4 +1,4 @@
-# Look it up: https://jyothishetty.netlify.app/
+# Link: https://jyothishetty.netlify.app/
 
 
 # Getting Started with Create React App
